@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.25)  25 MAY 2016 04:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.25)  25 MAY 2016 04:50
 entering extended mode
 **./res.tex
 (res.tex
@@ -196,7 +196,7 @@ Overfull \hbox (159.64336pt too wide) in paragraph at lines 31--54
 Here is how much of TeX's memory you used:
  1631 strings out of 493634
  23200 string characters out of 3131157
- 84517 words of memory out of 3000000
+ 85517 words of memory out of 3000000
  5043 multiletter control sequences out of 15000+200000
  8495 words of font info for 30 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -207,7 +207,7 @@ ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/User
 s/AVILASH MOHANTY/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmr12.pfb><C:/Users/AVILASH MOHANTY/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmr17.pfb>
-Output written on res.pdf (1 page, 125138 bytes).
+Output written on res.pdf (1 page, 126923 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
